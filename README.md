@@ -7,6 +7,8 @@
   Next to "About", add description & tags; disable releases, packages, & environments.
   Add your open source license, GitHub uses MIT license.
 -->
+# Status
+[![Step 2, Configure Your Action](https://github.com/mikalai-sokarau/skills-write-javascript-actions/actions/workflows/2-configure-your-action.yml/badge.svg)](https://github.com/mikalai-sokarau/skills-write-javascript-actions/actions/workflows/2-configure-your-action.yml)
 
 # Write JavaScript Actions
 
